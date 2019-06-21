@@ -1,0 +1,4 @@
+<map id="MobileRobot" name="MobileRobot">
+<area shape="rect" id="node2" href="$class_tracked.html" title="Tracked class is a publicly derived class of MobileRobot class Can be used to declare specific attrib..." alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" href="$class_wheeled.html" title="Wheeled class is a publicly derived class of MobileRobot class Can be used to declare specific attrib..." alt="" coords="99,80,173,107"/>
+</map>

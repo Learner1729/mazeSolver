@@ -1,0 +1,7 @@
+<map id="stackfsm::state::RobotState" name="stackfsm::state::RobotState">
+<area shape="rect" id="node2" href="$classstackfsm_1_1state_1_1_idle_state.html" title="IdleState class, it handles the transition from Idle state to other states. " alt="" coords="254,5,427,32"/>
+<area shape="rect" id="node3" href="$classstackfsm_1_1state_1_1_move_down_state.html" title="IdleState class, it handles the transition from Down state to other states. " alt="" coords="247,57,434,98"/>
+<area shape="rect" id="node4" href="$classstackfsm_1_1state_1_1_move_left_state.html" title="IdleState class, it handles the transition from Left state to other states. " alt="" coords="253,122,428,163"/>
+<area shape="rect" id="node5" href="$classstackfsm_1_1state_1_1_move_right_state.html" title="IdleState class, it handles the transition from Right state to other states. " alt="" coords="249,187,433,229"/>
+<area shape="rect" id="node6" href="$classstackfsm_1_1state_1_1_move_up_state.html" title="IdleState class, it handles the transition from Up state to other states. " alt="" coords="240,253,441,280"/>
+</map>
